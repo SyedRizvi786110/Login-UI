@@ -7,7 +7,7 @@
 .container{
     display:flex;
     justify-content: space-around;
-    background-color: black;
+    background-color: linear-gradient(45deg,#FC466B,#3F5EFB);
 }
 .form{
     display: flex;
